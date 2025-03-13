@@ -23,14 +23,6 @@ enableGitInfo = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   
-  # Profile settings
-  [params.profileMode]
-    enabled = true
-    title = "Nobel Smith"
-    subtitle = "10 Handicap Golfer | Sharing My Journey on the Links"
-    imageUrl = "img/profile.jpg"
-    imageTitle = "Nobel Smith"
-    
   # Social links
   [[params.socialIcons]]
     name = "email"
@@ -38,22 +30,28 @@ enableGitInfo = true
     
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "golf"
+    name = "Golf"
+    url = "/golf/"
     weight = 10
+    
+  [[menu.main]]
+    identifier = "faith"
+    name = "Faith"
+    url = "/faith/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "posts"
+    name = "All Posts"
+    url = "/posts/"
+    weight = 30
     
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 20
-    
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 30
+    weight = 40
     
 [taxonomies]
   category = "categories"

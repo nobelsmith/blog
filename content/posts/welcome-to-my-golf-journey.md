@@ -2,7 +2,7 @@
 title: "Welcome to My Golf Journey"
 date: 2024-03-22
 draft: false
-categories: ["General"]
+categories: ["Golf"]
 tags: ["welcome", "introduction"]
 ---
 
