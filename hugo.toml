@@ -1,0 +1,60 @@
+baseURL = "https://nobelsmith.com/"
+title = "Nobel Smith's Golf Journey"
+theme = "PaperMod"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# Enable emoji support
+enableEmoji = true
+
+# Enable Git info for last modified date
+enableGitInfo = true
+
+[params]
+  # Site description
+  description = "Follow my journey as a 10 handicap golfer, sharing experiences, tips, and stories from the course"
+  author = "Nobel Smith"
+  
+  # Site header/navigation
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+  # Profile settings
+  [params.profileMode]
+    enabled = true
+    title = "Nobel Smith"
+    subtitle = "10 Handicap Golfer | Sharing My Journey on the Links"
+    imageUrl = "img/profile.jpg"
+    imageTitle = "Nobel Smith"
+    
+  # Social links
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:contact@nobelsmith.com"
+    
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 30
+    
+[taxonomies]
+  category = "categories"
+  tag = "tags"
