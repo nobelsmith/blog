@@ -17,15 +17,12 @@ Welcome to my faith section, where I explore the intersection of Christianity an
 
 ## Featured Posts
 
-Coming soon! Check back for posts about:
-
-- Finding God's presence on the golf course
-- Biblical principles that apply to golf
-- Building character through the game
-- Fellowship with other Christian golfers
+- [Patience on the Course: A Biblical Perspective](/posts/patience-on-the-course/) (Faith & Golf)
 
 ## Scripture & Golf
 
-> "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint." - Isaiah 40:31
+> "You are the light of the world—like a city on a hilltop that cannot be hidden. No one lights a lamp and then puts it under a basket. Instead, a lamp is placed on a stand, where it gives light to everyone in the house. In the same way, let your good deeds shine out for all to see, so that everyone will praise your heavenly Father." - Matthew 5:14-16
 
-This verse reminds me of the patience and perseverance needed in both our faith journey and our golf game. Stay tuned for more reflections on how Scripture guides us in golf and life.
+> "Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit. Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age." - Matthew 28:19-20
+
+These verses are foundational, and highlight what an opportunity we have to go and make disciples on the course as well as a conviction to conduct myself accordin to the fruits of the spirit. Stay tuned for more reflections on how Scripture guides us in golf and life.
