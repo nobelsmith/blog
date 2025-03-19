@@ -1,12 +1,10 @@
 ---
 title: "Patience on the Course: A Biblical Perspective"
-date: 2024-03-22
+date: 2024-03-15
 draft: false
 categories: ["Faith"]
 tags: ["christianity", "golf", "patience"]
 ---
-
-# Patience on the Course: A Biblical Perspective
 
 As a 10 handicap golfer, I've learned that patience is not just a virtue in golf—it's a necessity. Patience is one of the fruits of the spirit, and being a born again believer I have access to unlimited patience right? Well not exactly, while actively seeking christ and living according to his word will produce patience in us, but none of us are perfect. That being said next time you duff a chip or blade a sand wedge 200 yards being patient witb yourself and slow to anger might just rescue your round.
 

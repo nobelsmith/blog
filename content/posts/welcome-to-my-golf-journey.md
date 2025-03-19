@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Golf Journey"
-date: 2024-03-22
+date: 2024-03-10
 draft: false
 categories: ["Golf"]
 tags: ["welcome", "introduction"]
