@@ -1,6 +1,6 @@
 ---
 title: "Patience on the Course: A Biblical Perspective"
-date: 2024-03-15
+date: 2025-03-15
 draft: false
 categories: ["Faith"]
 tags: ["christianity", "golf", "patience"]

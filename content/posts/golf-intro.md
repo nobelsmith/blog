@@ -1,16 +1,25 @@
 ---
-title: "Welcome to My Golf Journey"
-date: 2024-03-10
+title: "Golf Intro"
+date: 2025-02-25
 draft: false
-categories: ["Golf"]
-tags: ["welcome", "introduction"]
+categories: ["golf"]
+tags: ["golf", "intro"]
 ---
 
-Welcome to my golf blog! As a 10 handicap golfer, I've decided to create this space to share my experiences, insights, and journey in the world of golf. Whether you're a seasoned player or just starting out, I hope you'll find value in the stories and lessons I share here.
+# My Golf Journey
+
+I started playing golf as a kid, and while I took a break from the game during college I have now returned to the game and have been hooked ever since. I am a range warrior who is trying to heal some scars left behind by junior golf as well as cope with swinging the club well and still scoring badly. As a mid-handicap player, I've experienced both the thrills of great rounds and the challenges that every golfer faces. Through this blog, I aim to:
+
+- Document my progress and lessons learned
+- Provide tips and insights for fellow golfers
+- Connect with the golfing community
+- Share detailed course reviews and experiences
+
+Remember: Golf is not just a game, it's a journey of continuous improvement and enjoyment.
 
 ## What to Expect
 
-In the coming posts, you can look forward to:
+My content will consist of mostly:
 
 1. **Progress Updates**: Regular updates on my journey to lower my handicap, including:
 
@@ -39,6 +48,15 @@ In the coming posts, you can look forward to:
    - Strategy tips
    - Difficulty assessment
    - Memorable holes
+
+## Current Focus
+
+As a 10-handicap player, I'm currently working on:
+
+- Developing a stock shot
+- Course management strategies
+- Mental game development
+- Consistent ball-striking
 
 ## Join Me on This Journey
 

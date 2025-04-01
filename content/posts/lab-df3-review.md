@@ -1,6 +1,6 @@
 ---
 title: "LAB DF3 Putter Review: A Deep Dive Into Lie Angle Balanced Technology"
-date: 2024-03-19
+date: 2025-03-19
 draft: false
 categories: ["Golf"]
 tags: ["golf", "equipment", "review", "putter", "LAB"]

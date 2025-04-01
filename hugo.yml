@@ -1,0 +1,90 @@
+baseURL: "https://nobelsmith.com/"
+title: "Nobel Smith"
+theme: "PaperMod"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+
+# Enable emoji support
+enableEmoji: true
+
+# Enable Git info for last modified date
+enableGitInfo: true
+
+# Enable Search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # Required for search functionality
+
+params:
+  # Site description
+  env: production
+  description: "Nobel Smith's Personal Website"
+  author: "Nobel Smith"
+  homeInfoParams:
+    Title: "Welcome To My Personal Website"
+    Content: >
+
+
+      Here I will share my thoughts on technology, golf, and faith.
+
+      - As a mid-handicapper, I will share my progress, tips, and reflect on the game's lessons.
+
+      - As a full-stack developer, I will share my thoughts on technology I love and hate.
+
+      - As a Christian, I will share my perspective on faith and how it intersects with my life.
+
+  # Site header/navigation
+  defaultTheme: "auto"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  # Social links
+  socialIcons:
+    - name: github
+      title: My Github
+      url: "https://github.com/nobelsmith"
+    - name: Linkedin
+      title: My Linkedin
+      url: "https://www.linkedin.com/in/nobel-smith-74a57b1a3/"
+    - name: youtube
+      title: My Youtube
+      url: "https://www.youtube.com/@nobelrl8235"
+    - name: email
+      title: My Email
+      url: "mailto:nobel.hooks@gmail.com"
+
+  editPost:
+    URL: "https://github.com/nobelsmith/blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifier: "search"
+      name: "Search"
+      url: "/search/"
+      weight: 10
+
+    - identifier: "archives"
+      name: "Archives"
+      url: "/archives/"
+      weight: 20
+
+    - identifier: "posts"
+      name: "All Posts"
+      url: "/posts/"
+      weight: 40
+
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 70
+
+taxonomies:
+  category: "categories"
+  tag: "tags"

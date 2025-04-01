@@ -1,9 +1,9 @@
 ---
 title: "What's So Special About Pros?"
-date: 2024-03-18
+date: 2025-03-18
 draft: false
 categories: ["Golf"]
-tags: ["golf", "professional"]
+tags: ["golf", "professional-golfers"]
 ---
 
 Today, I had the incredible opportunity to tee it up with one of our local club professionals Seth Murphy. Like many amateur golfers, I'd always wondered what makes professional players so special. After 18 holes alongside Seth, I got my answer – and it wasn't what I expected. The setting of today's story is HTCC, but unlike any normal round today there were wind gusts up to 35 mph spicing things up.
