@@ -1,7 +1,7 @@
 ---
 title: "I Tried Next.js (and its my new guilty pleasure)"
 date: 2025-05-05T22:08:25-05:00
-draft: true
+draft: false
 categories: ["Tech"]
 tags: ["software development", "programming", "full-stack", "Next.js"]
 ---
