@@ -20,20 +20,18 @@ outputs:
 params:
   # Site description
   env: production
-  description: "Nobel Smith's Personal Website"
+  description: "Nobel Smith's Personal Blog"
   author: "Nobel Smith"
   homeInfoParams:
-    Title: "Welcome To My Personal Website"
+    Title: "Welcome To My Blog!"
     Content: >
 
 
-      Here I will share my thoughts on technology, golf, and faith.
+      I'm excited to share my thoughts and experiences with you on topics I'm passionate about
 
-      - As a mid-handicapper, I will share my progress, tips, and reflect on the game's lessons.
+      - I am a Christian, full-stack developer, and an extremely average golfer 
 
-      - As a full-stack developer, I will share my thoughts on technology I love and hate.
-
-      - As a Christian, I will share my perspective on faith and how it intersects with my life.
+      - For professional inquiries, please visit my developer website [Nobel Codes](https://nobelcodes.com)
 
   # Site header/navigation
   defaultTheme: "auto"
